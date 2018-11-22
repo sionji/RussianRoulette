@@ -188,5 +188,5 @@ void show_me_the_score(deadHEAD* deadHead, deadList* pDeadLoc){
  ![roulette_results](https://user-images.githubusercontent.com/41851641/48904321-4f288100-eea1-11e8-8b33-1cbfadaeab78.PNG)
   
   이 결과 화면을 기준으로,  
-  임가온  4번째 러시안룰렛 게임에서 4번째 리볼버 탄창을 맞고 사망했습니다.  
+  임가온 게이머는 4번째 러시안룰렛 게임에서 4번째 리볼버 탄창을 맞고 사망했습니다.  
   
